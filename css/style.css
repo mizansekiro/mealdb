@@ -1,0 +1,19 @@
+.head-color {
+    border-radius: 0;
+    margin-bottom: 0;
+    background: #422f1c;
+    padding: 15px;
+
+}
+
+.feature {
+    background: #724920;
+}
+
+.footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #fff;
+    background: #422f1c;
+    text-align: center;
+}
